@@ -12,15 +12,15 @@
 ## Connections
 
 Buttons:
-left button to 8
-right to 18
+- left button to 8
+- right button to 18
 
 LCD:
-LCD_CS to 24
-LCD_RST to 21
-LCD_A0 to 23
-LCD_CLK to 22
-LCD_SI to 17
+- LCD_CS to 24
+- LCD_RST to 21
+- LCD_A0 to 23
+- LCD_CLK to 22
+- LCD_SI to 17
 
 LED to 25 GPIO
 
